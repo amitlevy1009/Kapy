@@ -27,5 +27,4 @@ This script is provided as-is for educational purposes only. Use of this script 
 Contributing:
 Contributions are welcome in the form of suggestions, improvements, or additional features that enhance the educational value of this repository. Please submit pull requests or raise issues for discussion.
 
-License:
-This project is licensed under the MIT License - see the LICENSE file for details.
+
